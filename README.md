@@ -1,6 +1,6 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+pre-commit git hook realization
 
 # Project Goals
 
